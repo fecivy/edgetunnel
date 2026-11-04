@@ -7,6 +7,9 @@ keep_vars = true
 binding = "KV"
 id = "11d996d3245847f1a7bc3965c44807ff"
 
+[browser]
+binding = "Worker"
+
 #[[kv_namespaces]]
 #binding = "KV"			#KV绑定名默认不可修改
 #id = ""				#KV数据库id
